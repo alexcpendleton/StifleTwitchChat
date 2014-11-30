@@ -1,3 +1,8 @@
-/**
- * Place your custom CSS styles here.
- **/
+/*
+  ".broadcaster":"stifle-broadcaster",
+  ".moderator":"stifle-moderator",
+  ".subscriber":"stifle-subscriber",
+  ".turbo":"stifle-turbo"
+  */
+.chat-line.stifle-hide { display:inherit; color:red;   }
+.chat-line.stifle-show { display:inherit;}
